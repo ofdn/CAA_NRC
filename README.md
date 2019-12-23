@@ -5,4 +5,6 @@ Raw texts, translations, art works and other files for Citizenship Amendment Act
 * [Odia version](https://github.com/ofdn/CAA_NRC/tree/master/Odia)
 * [Santali version](https://github.com/ofdn/CAA_NRC/tree/master/Odia)
 
-# [Permission](https://twitter.com/subhapa/status/1207237481386541056)
+# Other resources
+* [Original English and other language versions created by SBA, National Law School of India University, Bengaluru, India](https://drive.google.com/file/d/1EMPdXi1KXbpRei1WRcdpDpOgsBjpzsif/view)
+* [Permission received for redistribution with a free license](https://twitter.com/subhapa/status/1207237481386541056)
