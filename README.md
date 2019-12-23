@@ -2,7 +2,7 @@ Raw texts, translations, artworks and other files for Citizenship Amendment Act 
 
 # Language versions
 * [Ho version](https://github.com/ofdn/CAA_NRC/tree/master/Ho) (Typed in Warang Citi alphabet, typeset in [Disum typeface](https://github.com/Singkiring57/esel-sadom/blob/master/DisumSans.ttf). [See more typefaces](https://theofdn.org/oer/ho/).)
-* [Odia version](https://github.com/ofdn/CAA_NRC/tree/master/Odia) (Typed in Odia alphabet, typeset in "Noto Sans Oriya" typeface.)
+* [Odia version](https://github.com/ofdn/CAA_NRC/tree/master/Odia) (Typed in Odia alphabet, typeset in "[Noto Sans Oriya](https://noto-website-2.storage.googleapis.com/pkgs/NotoSansOriya-unhinted.zip)" typeface.)
 * [Santali version](https://github.com/ofdn/CAA_NRC/tree/master/Odia) (Typed in Ol chiki alphabet, typeset in [Guru Gomke typeface](https://github.com/GuruGomke/files/tree/master/Font%20files). [See more typefaces](https://theofdn.org/oer/santali/).)
 
 # Other resources
