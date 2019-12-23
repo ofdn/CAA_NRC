@@ -1,9 +1,9 @@
-Raw texts, translations, art works and other files for Citizenship Amendment Act (CAA) and National Register of Citizens (NRC).
+Raw texts, translations, artworks and other files for Citizenship Amendment Act (CAA) and National Register of Citizens (NRC).
 
 # Language versions
-* [Ho version](https://github.com/ofdn/CAA_NRC/tree/master/Ho)
-* [Odia version](https://github.com/ofdn/CAA_NRC/tree/master/Odia)
-* [Santali version](https://github.com/ofdn/CAA_NRC/tree/master/Odia)
+* [Ho version](https://github.com/ofdn/CAA_NRC/tree/master/Ho) (Typed in Warang Citi alphabet, typeset in [Disum typeface](https://github.com/Singkiring57/esel-sadom/blob/master/DisumSans.ttf). [See more typefaces](https://theofdn.org/oer/ho/).)
+* [Odia version](https://github.com/ofdn/CAA_NRC/tree/master/Odia) (Typed in Odia alphabet, typeset in "Noto Sans Oriya" typeface.)
+* [Santali version](https://github.com/ofdn/CAA_NRC/tree/master/Odia) (Typed in Ol chiki alphabet, typeset in [Guru Gomke typeface](https://github.com/GuruGomke/files/tree/master/Font%20files). [See more typefaces](https://theofdn.org/oer/santali/).)
 
 # Other resources
 * [Original English and other language versions created by SBA, National Law School of India University, Bengaluru, India](https://drive.google.com/file/d/1EMPdXi1KXbpRei1WRcdpDpOgsBjpzsif/view)
